@@ -1,0 +1,166 @@
+.mig1{
+
+    width: 500px;
+    height:450px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-top: 1px;
+    margin-left: 1px;
+    border-bottom-style: groove;
+    border-bottom-color:  rgb(2, 1, 7);
+ 
+}
+
+
+.mig2{
+    width: 500px;
+    height: 450px;
+    margin-top: 1px;
+    padding:5px;
+    padding-top: 1px;
+    margin-left: 5px;
+    border-bottom-style:groove;
+    border-bottom-color:  rgb(2, 1, 7);
+   
+}
+
+.mig3{
+    width: 500px;
+    height: 450px;
+    margin-top: 1px;
+    padding: 5px;
+    padding-top: 1px;
+    margin-left: 5px;
+    border-bottom-style: groove;
+    border-bottom-color:  rgb(2, 1, 7);
+
+
+}
+.sr{
+    background-color: rgb(255, 255, 255);
+}
+.lll{
+    background-color: rgb(180, 182, 204);
+    width: 1700px;
+    height: 2500px;
+}
+.fo{
+    padding-right:100px;
+    padding-top:5px ;
+    padding-left:100px;
+    padding-bottom: 30px;
+    border: black;
+    border-radius: 10px;
+    background-color: rgb(105, 106, 190);
+    width: 200px;
+    height: 10px;
+    margin-bottom: 500px;
+    float: left;
+    border-bottom-style: inset;
+    border-bottom-color:  rgb(2, 1, 7);
+    
+    
+}
+
+
+.foo{
+    float: left;
+    margin-left: 130px;
+    border-bottom-style: inset;
+    border-bottom-color:  rgb(2, 1, 7);
+    text-align: left;
+    margin: -100px;
+    padding-top: 100px;
+
+}
+
+.ri{
+    padding-right:100px;
+    padding-top:5px ;
+    padding-left:100px;
+    padding-bottom: 30px;
+    border: rgb(12, 10, 10);
+    border-radius: 10px;
+    background-color: rgb(105, 106, 190);
+    width: 200px;
+    height: 10px;
+    margin-bottom: 500px;
+    float: left;
+    border-bottom-style: inset;
+    border-bottom-color:  rgb(5, 4, 5);
+    margin: 1600px;
+    margin-top: -1100px;
+    margin-left: 1000px;
+
+}
+.rii{
+    float: left;
+    margin-left: -100px;
+    border-bottom-style: inset;
+    border-bottom-color:  rgb(2, 1, 7);
+    text-align: left;
+   
+}
+
+
+
+.j{
+    text-align: center;
+    padding-top:5px ;
+    padding-bottom: 10px;
+    border-bottom-style: groove;
+    border-bottom-color:  rgb(2, 1, 7);
+    margin-left: -1300px;
+  
+
+}
+.hh{
+    padding: 10px;
+    width: 810px;
+    height: 600px;
+    float: left;
+    background-color: rgb(194, 202, 211);
+}
+.hhh{
+    padding: 10px;
+    width: 810px;
+    height: 600px;
+    float: left;
+    background-color: rgb(194, 202, 211);
+}
+.hhhh{
+    
+    padding: 10px;
+    width: 810px;
+    height: 700px;
+    float: left;
+    background-color: rgb(194, 202, 211);
+    margin-top: -5px;
+}
+.hhhhh{
+    padding: 10px;
+    width: 810px;
+    height: 700px;
+    float: left;
+    background-color: rgb(194, 202, 211);
+    margin-top: -5px;
+}
+.ho{
+    width: 200px;
+    height: 200px;
+}
+.hp{
+    background-color: rgb(113, 123, 163);
+}
+
+.vv{
+    width: 1000px ;
+    height: 800px;
+    margin: 10px;
+    text-align: center;
+}
+.vp{
+    background-color: rgb(119, 119, 148);
+}
+
+

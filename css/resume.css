@@ -1,0 +1,153 @@
+.h{
+
+    width: 200px;
+    height: 200px;
+    margin: 40px; 
+     float: left;
+    border-style: groove;
+    border-radius: 100px;
+    border-color: rgb(25, 6, 109);
+}
+header{
+    background-color: lightslategray;
+    height: 370px;
+    margin-bottom: 5%;
+    border-style: solid;
+    clear: both;
+}
+.s{
+    text-align: center;
+    width:400px;
+    float: left;
+    margin-left:25%;
+    margin-top:40px;
+}
+.l{
+    border-bottom-style: solid;
+    border-bottom-color:  rgb(25, 6, 109);
+    padding: 100px;
+}
+.w{
+    
+        clear: both;
+        margin-left: 50px;
+        padding-left: 100px;
+
+}
+.m{
+    float: left;
+    padding-left:250px;
+  
+}
+main{
+    clear: both;
+}
+.k{
+    background-color: rgb(69, 69, 100);
+    margin-right:px;
+    width: 27%;
+    height: 651px;
+    float:left;
+    border-style: solid;
+    
+}
+
+.g{
+    background-color: rgb(83, 93, 122);
+    width: 70%;
+    height: 655px; 
+    float: right;
+margin-top: -657px;
+border-style: solid;
+padding-left: 10px;
+
+}
+.y{
+    text-align: center;
+}   
+.q{ 
+    background-color:rgb(138, 117, 189);
+    width: 95%;
+    margin-left: 1%;
+    text-align: center;
+}
+.d{
+    background-color:rgb(138, 117, 189) ;
+    width: 344px;
+    text-align: center;
+    margin-left: 1%;
+}
+  
+.p{
+    background-color:rgb(138, 117, 189);
+    width: 344px;
+    text-align: center;
+    margin-left: 1%;
+}
+.oo{
+    background-color:rgb(138, 117, 189);
+    width: 344px;
+    text-align: center;
+    margin-left: 1%;
+}
+.aa{
+    background-color:rgb(138, 117, 189);
+    width: 344px;
+    text-align: center;
+    margin-left: 1%;
+}
+
+.nn{
+    background-color: rgb(122, 122, 161);
+    width: 900px;
+    margin-left: 1%;
+    padding-left: 5px;
+}
+.dd{
+    background-color:rgb(122, 122, 161) ;
+    width: 900px;
+    margin-left: 1%;
+    padding-left: 5px;
+}
+.rr{
+    background-color: rgb(122, 122, 161);
+    width: 900px;
+    margin-left: 1%;
+    padding-left: 5px;
+
+}
+.eee{
+    padding: 15px;
+    margin-top: -30px;
+   height:-5px ;
+
+
+
+} 
+nav{
+    background-color: rgb(81, 77, 99);
+    padding:10px;
+    margin-top:90px;
+   
+}
+nav a{
+   text-decoration: none; 
+   color:white;
+   padding:10px;
+}
+nav a.ac{
+   background-color: rgb(194, 161, 221);
+   color:white;
+
+}
+
+nav a:hover:not(.ac){
+  background-color: white;
+  color:rgb(109, 100, 107);
+   
+   
+}
+.activte{
+    background-color: rgb(122, 122, 231);
+    color: white;
+}
